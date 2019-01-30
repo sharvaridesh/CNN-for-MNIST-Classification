@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# File: proj03.py
+# File: cnn-mnist.py
 # Author: Sharvari Deshpande <shdeshpa@ncsu.edu>
 
 import os
